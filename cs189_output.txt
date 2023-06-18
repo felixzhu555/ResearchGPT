@@ -1,0 +1,121 @@
+ Study Guide for CS 189
+
+1. Understand the basics of machine learning, including supervised and unsupervised learning, linear regression, logistic regression, decision trees, and neural networks.
+
+2. Be familiar with the different types of data, such as categorical, numerical, and text data.
+
+3. Understand the different types of evaluation metrics, such as accuracy, precision, recall, and F1 score.
+
+4. Be familiar with the different types of optimization algorithms, such as gradient descent, stochastic gradient descent, and Adam.
+
+5. Understand the different types of regularization techniques, such as L1 and L2 regularization.
+
+6. Be familiar with the different types of feature engineering techniques, such as one-hot encoding, feature scaling, and feature selection.
+
+7. Understand the different types of ensemble methods, such as bagging and boosting.
+
+8. Be familiar with the different types of deep learning architectures, such as convolutional neural networks and recurrent neural networks.
+
+9. Understand the different types of natural language processing techniques, such as word embeddings and sentiment analysis.
+
+10. Be familiar with the different types of reinforcement learning algorithms, such as Q-learning and SARSA.
+
+11. Understand the different types of evaluation techniques, such as cross-validation and holdout sets.
+
+12. Be familiar with the different types of data visualization techniques, such as scatter plots and heatmaps.
+
+13. Understand the different types of data preprocessing techniques, such as imputation and normalization.
+
+14. Be familiar with the different types of model selection techniques, such as grid search and random search.
+
+15. Understand the different types of model evaluation techniques, such as confusion matrices and ROC curves.
+
+16. Be familiar with the different types of model deployment techniques, such as Docker and Kubernetes. 
+17. Understand the different types of streaming algorithms, such as k-means clustering and low-dimensional decompositions.
+
+18. Be familiar with the different types of decision theory, such as Bayesian decision theory and maximum likelihood estimation.
+
+19. Understand the different types of locally weighted logistic regression, such as ridge regression and lasso regression.
+
+20. Be familiar with the different types of evaluation metrics, such as precision, recall, and F1 score. 
+21. Understand the different types of data augmentation techniques, such as image augmentation and text augmentation.
+
+22. Be familiar with the different types of data cleaning techniques, such as outlier detection and missing value imputation.
+
+23. Understand the different types of data transformation techniques, such as principal component analysis and singular value decomposition.
+
+24. Be familiar with the different types of data exploration techniques, such as correlation analysis and feature importance.
+
+25. Understand the different types of data mining techniques, such as association rules and clustering.
+
+26. Be familiar with the different types of data visualization libraries, such as Matplotlib and Seaborn.
+
+27. Understand the different types of data analysis techniques, such as time series analysis and survival analysis.
+
+28. Be familiar with the different types of data wrangling techniques, such as data aggregation and data reshaping.
+
+29. Understand the different types of data storage techniques, such as relational databases and NoSQL databases.
+
+30. Be familiar with the different types of data security techniques, such as encryption and access control.
+
+31. Understand the different types of data privacy techniques, such as anonymization and pseudonymization.
+
+32. Be familiar with the different types of data governance techniques, such as data quality management and data lineage.
+
+33. Understand the different types of data ethics, such as privacy by design and responsible AI.
+
+34. Be familiar with the different types of data science tools, such as Python and R.
+
+35. Understand the different types of data science libraries, such as Scikit-learn and TensorFlow.
+
+36. Be familiar with the different types of data science frameworks, such as PyTorch and Keras.
+
+37. Understand the different types of data science techniques, such as supervised learning and unsupervised learning.
+
+38. Be familiar with the different types of data science applications, such as computer vision and natural language processing.
+
+39. Understand the different types of data science best practices, such as data exploration and model evaluation.
+
+40. Be familiar with the different types of data science challenges, such as bias and interpretability.
+
+41. Understand the different types of data science ethics, such as fairness and transparency.
+
+42. Be familiar with the different types of data science tools, such as Jupyter Notebooks and Google Colab.
+
+43. Understand the different types of data science libraries, such as Pandas and NumPy.
+
+44. Be familiar with the different types of data science frameworks, such as Scikit-learn and TensorFlow.
+
+45. Understand the different types of data science techniques, such as feature engineering and hyperparameter tuning.
+
+46. Be familiar with the different types of data science applications, such as recommendation systems and anomaly detection.
+
+47. Understand the different types of data science best practices, such as data preprocessing and model deployment.
+
+48. Be familiar with the different types of data science challenges, such as data sparsity and data leakage.
+
+49. Understand the different types of data science ethics, such as privacy and accountability.
+
+50. Be familiar with the course prerequisites, such as vector calculus, linear algebra, probability, and programming experience.
+
+51. Understand the course grading, such as homeworks, midterm, final, and project.
+
+52. Be familiar with the course cheating policy, such as discussion of HW problems and plagiarism.
+
+53. Understand the course core material, such as finding patterns in data, models and statistics, and optimization algorithms. 
+54. Be familiar with the course final exam, such as the duration, format, and topics. 
+Good luck studying!
+
+> Source (Doc id: 1021e982-bc7b-4679-9466-d537e2909ec3): page_label: 2
+file_name: 01.pdf
+
+2 Jonathan Richard Shewchuk
+Prerequisites
+Vector calculus: Math ...
+
+> Source (Doc id: 0f3f1ddc-786a-4ccd-9da6-e8cbbe3c7c91): page_label: 1
+file_name: 189finals15.pdf
+
+CS 189
+Spring 2015Introduction to
+Machine Learning Fina...
